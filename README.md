@@ -6,7 +6,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&variant=living-identity&label=SHIVANSH%20AGARWAL&v=wow-living-identity-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/hero?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&variant=living-identity&label=SHIVANSH%20AGARWAL&v=wow-living-identity-1&mode=dark" width="100%" alt="SHIVANSH AGARWAL animated Living Identity portrait and ASCII name" />
 </picture>
-<p><strong>Frontend or full-stack engineer</strong> · Gwalior, MP 474006</p>
+<p><strong>Frontend or full-stack engineer</strong></p>
 <p>Computer Science undergraduate and freelance full-stack developer with 3 years of experience shipping production Telegram bots, payment-integrated backends, and ML-based security tools. Built a platform serving 11,489+ users that has completed 29,512+ orders and processed deposits of INR 13,88,168+. Strong in Python (FastAPI, Flask), MySQL, REST API design, and Linux/VPS deployment.</p>
 <p><a href="https://github.com/gamestag-py">GitHub</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/shivansh-agrawal1706">LinkedIn</a></p>
 </div>
