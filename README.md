@@ -1,112 +1,127 @@
-<div align="center">
+<div align="center"><!-- Animated hero banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:123B62,100:00D4FF&text=SHIVANSH%20AGARWAL&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=BACKEND%20ENGINEERING%20%E2%80%A2%20APPLIED%20AI%20%E2%80%A2%20BUILDING%20IN%20PUBLIC&descAlignY=61&descSize=13&animation=fadeIn" alt="Shivansh Agrawal animated profile banner" /><a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=00D4FF&center=true&vCenter=true&width=760&lines=Computer+Science+Undergraduate;Python+%7C+Backend+Engineering+%7C+Applied+AI;Building+security+tools+and+real-time+systems;Turning+ideas+into+working+software" alt="Animated typing introduction" />
+</a>
+<a href="https://github.com/gamestag-py?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-EXPLORE-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="Explore repositories" /></a>
+<a href="https://linkedin.com/in/shivansh-agrawal1706"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=gamestag-py&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS" alt="Profile views" />
+</div>whoami
+class Shivansh:
+    name = "Shivansh Agrawal"
+    role = "Computer Science Undergraduate"
+    education = "B.Tech CSE · ITM University, Gwalior"
+    interests = [
+        "Backend Engineering",
+        "Applied AI / Machine Learning",
+        "Cybersecurity",
+        "Automation & Real-time Systems",
+    ]
+    current_builds = ["MiChat", "InternHunt", "AI-powered security tools"]
 
-<p><sub>WOW PROFILE · GAMESTAG-PY · LIVE</sub></p>
+    def engineering_motto(self):
+        return "Learn deeply. Build thoughtfully. Ship reliably."
+I build practical software across Python backends, automation, AI-assisted security, and real-time applications. I enjoy taking a product from an idea to a working system—with attention to APIs, data models, deployment, and the details that make software dependable.
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&variant=living-identity&label=SHIVANSH%20AGARWAL&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&variant=living-identity&label=SHIVANSH%20AGARWAL&v=wow-living-identity-1&mode=dark" width="100%" alt="SHIVANSH AGARWAL animated Living Identity portrait and ASCII name" />
-</picture>
-<p><strong>Frontend or full-stack engineer</strong></p>
-<p>Computer Science undergraduate and freelance full-stack developer with 3 years of experience shipping production Telegram bots, payment-integrated backends, and ML-based security tools. Built a platform serving 11,489+ users that has completed 29,512+ orders and processed deposits of INR 13,88,168+. Strong in Python (FastAPI, Flask), MySQL, REST API design, and Linux/VPS deployment.</p>
-<p><a href="https://github.com/gamestag-py">GitHub</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/shivansh-agrawal1706">LinkedIn</a></p>
-</div>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Identity, with signal</h2>
-
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="62%" valign="top"><p>Computer Science undergraduate and freelance full-stack developer with 3 years of experience shipping production Telegram bots, payment-integrated backends, and ML-based security tools. Built a platform serving 11,489+ users that has completed 29,512+ orders and processed deposits of INR 13,88,168+. Strong in Python (FastAPI, Flask), MySQL, REST API design, and Linux/VPS deployment.</p><p><strong>Focus:</strong> `OTP / Virtual Number Provider Bot (Client Project)` · `ThreatAdvisor (Open Source)` · `Gem Hunter - Real-Time Multiplayer Game`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
-<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>5</strong> repos<br /><strong>2</strong> stars<br /><strong>209</strong> contributions<br /><strong>0</strong> followers</p></td>
-</tr>
-</table>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>What moves the work</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&items=OTP%20%2F%20Virtual%20Number%20Provider%20Bot%20(Client%20Project)%3A%3ACurrent%20focus%7CThreatAdvisor%20(Open%20Source)%3A%3AIn%20the%20build%20queue%7CGem%20Hunter%20-%20Real-Time%20Multiplayer%20Game%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&items=OTP%20%2F%20Virtual%20Number%20Provider%20Bot%20(Client%20Project)%3A%3ACurrent%20focus%7CThreatAdvisor%20(Open%20Source)%3A%3AIn%20the%20build%20queue%7CGem%20Hunter%20-%20Real-Time%20Multiplayer%20Game%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="SHIVANSH AGARWAL animated profile highlights" />
-</picture>
-
-<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>The tools behind the signal</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="SHIVANSH AGARWAL animated technology stack" />
-</picture>
-
-<p align="center"><sub>JavaScript · Python · CSS · HTML · Hack · PHP · Java · chosen for the work, not the trend</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Built, shipped, shared</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&repos=gamestag-py%2FthreatAdvisor%2Cgamestag-py%2Fgem-hunt-multiplayer%2Cgamestag-py%2FMailGuard%2Cgamestag-py%2FInternHunt&variant=wow&v=wow-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&repos=gamestag-py%2FthreatAdvisor%2Cgamestag-py%2Fgem-hunt-multiplayer%2Cgamestag-py%2FMailGuard%2Cgamestag-py%2FInternHunt&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="SHIVANSH AGARWAL animated project constellation" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&repos=gamestag-py%2FthreatAdvisor%2Cgamestag-py%2Fgem-hunt-multiplayer%2Cgamestag-py%2FMailGuard%2Cgamestag-py%2FInternHunt&variant=wow-timeline&v=wow-timeline-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&repos=gamestag-py%2FthreatAdvisor%2Cgamestag-py%2Fgem-hunt-multiplayer%2Cgamestag-py%2FMailGuard%2Cgamestag-py%2FInternHunt&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="SHIVANSH AGARWAL animated project launch timeline" />
-</picture>
-
-<table width="100%">
-<tr>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/gamestag-py/threatAdvisor">threatAdvisor</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Python · ⭐ 1</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/gamestag-py/gem-hunt-multiplayer">gem-hunt-multiplayer</a></strong></p><p>A selected project from this public body of work.</p><p><sub>HTML · ⭐ 1</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/gamestag-py/MailGuard">MailGuard</a></strong></p><p>An AI-powered email phishing detection tool with a Chrome extension and local LLM integration.</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/gamestag-py/InternHunt">InternHunt</a></strong></p><p>A selected project from this public body of work.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Momentum, made visible</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="SHIVANSH AGARWAL animated GitHub signal" />
-</picture>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>The trail behind the work</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="SHIVANSH AGARWAL contribution energy field" />
-</picture>
-
-<p align="center"><sub>1 day current streak · 93 active days</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<div align="center">
-<p><sub>KEEP THE SIGNAL MOVING</sub></p>
-<h2>Make something worth noticing</h2>
-<p>I like working with people who care about craft, context, and shipping the useful version.</p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fshivansh-agrawal1706&variant=wow&v=wow-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=gamestag-py&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F121762262%3Fv%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fshivansh-agrawal1706&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="SHIVANSH AGARWAL contact links" />
-</picture>
-<p><a href="https://github.com/gamestag-py">GitHub</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/shivansh-agrawal1706">LinkedIn</a></p>
-<p><sub>SHIVANSH AGARWAL · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-</div>
-
-## Experience
-
+Currently interested in: backend / Python internships, applied AI, and engineering collaborations.
+featured_work
 <table>
-<tr><td width="34%" valign="top"><b>Self-Employed — Freelance Full-Stack Developer</b><br /><sub>2023 – Present</sub></td><td width="66%" valign="top"><ul><li>Developed and maintained full-stack web applications, Telegram bots, and automation tools for multiple clients using PHP, Python, JavaScript, Flask, and SQL.</li><li>Built scalable backend systems including payment gateway integrations, task automation scripts, and multi-account messaging systems using Telethon and REST APIs.</li><li>Managed Linux/VPS deployments, debugging, API integrations, and database operations to ensure reliable performance and uptime.</li></ul></td></tr>
-</table>
+<tr>
+<td width="50%" valign="top">🛡️ ThreatAdvisor
+Multi-layer phishing detection
 
-<b>Education</b>
+A security system combining machine-learning URL classification, BERT-based email analysis, and browser-side protection.
+- Multiple URL classification models
+- Typosquatting, homoglyph, and brand-abuse checks
+- Cloaking / User-Agent analysis
+- FastAPI backend and Chrome extension
+Python FastAPI scikit-learn BERT JavaScript
+</td>
+<td width="50%" valign="top">✉️ MailGuard
+Local-LLM email threat analysis
 
-- Bachelor of Technology (B.Tech) in Computer Science &amp; Engineering — ITM University, Gwalior (2024 – 2028)
+A Gmail-focused Chrome extension that sends visible email content to a locally running Ollama model through a Python API.
+- Email content and sender-context analysis
+- Local inference with Ollama / Qwen
+- Risk score, indicators, and recommendations
+- FastAPI service and Chrome extension
+Python FastAPI Ollama Qwen Chrome Extension
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">💬 MiChat
+Web-first messaging application
+
+A messaging app built around a Python backend, WebSockets, and MySQL persistence.
+- FastAPI backend and WebSocket communication
+- MySQL / InnoDB data layer with asynchronous access
+- Authentication and session-management foundations
+- HTML, CSS, and JavaScript frontend
+Python FastAPI WebSockets MySQL aiomysql
+</td>
+<td width="50%" valign="top">🎯 InternHunt
+Internship discovery & tracking
+
+An early-stage web application repository structured into frontend, backend, and SQL database components, focused on internship workflows.
+- Separate frontend and backend directories
+- SQL-backed application data
+- Product direction around simplifying internship discovery
+JavaScript SQL Web Development
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">💎 Gem Hunt Multiplayer
+Real-time browser multiplayer game
+
+A two-player strategy game built around hidden choices, bluffing, and deduction.
+- Live multiplayer communication over WebSockets
+- Browser-based responsive interface
+- JavaScript game logic and Tailwind styling
+JavaScript WebSockets HTML Tailwind CSS
+</td>
+<td width="50%" valign="top">🧩 DSA
+Problem-solving practice
+
+A collection of Java solutions covering programming fundamentals and algorithmic exercises.
+- Number and string problems
+- Basic algorithmic practice
+- LeetCode solutions and exercises
+Java Data Structures Algorithms
+</td>
+</tr>
+</table>production_experience
+Alongside the public repositories, I have developed and maintained client-facing Telegram automation and payment-integrated backend systems. One platform documented on my previous profile served 11,489+ users, completed 29,512+ orders, and processed ₹13,88,168+ in deposits.
+
+Work included Python bot development, API integrations, database operations, and Linux/VPS deployment.
+tech_stack
+Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css,mysql&theme=dark" alt="Python, Java, JavaScript, PHP, HTML, CSS and MySQL" />
+</p>Backend, frontend & tools
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react,vite,tailwind,git,github,docker,linux,bash&theme=dark" alt="FastAPI, Flask, Node.js, React, Vite, Tailwind, Git, GitHub, Docker and Linux" />
+</p>AI / ML & infrastructure
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-Machine%20Learning-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-0D1117?style=flat-square&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Backend-0D1117?style=flat-square&logo=fastapi&logoColor=00D4FF" alt="REST APIs" />
+</p>github_activity
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gamestag-py&show_icons=true&hide_border=true&bg_color=050816&title_color=00D4FF&icon_color=00D4FF&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamestag-py&layout=compact&hide_border=true&bg_color=050816&title_color=00D4FF&text_color=CBD5E1" alt="Top languages" />
+</div><div align="center">
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=gamestag-py&hide_border=true&background=050816&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+</div><div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=gamestag-py&bg_color=050816&color=CBD5E1&line=00D4FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution graph" />
+</div>currently_focusing_on
+- Designing reliable APIs and real-time backend systems.
+- Exploring applied machine learning and local LLM workflows.
+- Improving application security, authentication, and deployment practices.
+- Strengthening data structures and algorithms.
+connect
+<div align="center"><a href="https://linkedin.com/in/shivansh-agrawal1706"><img src="https://img.shields.io/badge/LinkedIn-Shivansh%20Agrawal-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn profile" /></a>
+<a href="https://github.com/gamestag-py"><img src="https://img.shields.io/badge/GitHub-gamestag--py-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:00D4FF,55:123B62,100:050816" alt="Animated footer" />
+<sub>Designed around curiosity, engineering, and continuous iteration.</sub>
+</div>
